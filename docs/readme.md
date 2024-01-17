@@ -23,3 +23,4 @@
 - [AI for Reviewing Legal Contracts](https://www.youtube.com/watch?v=vas5Bykxh9k&list=PLRv5OccVglaCjdCVcALo8uU53xUWEbWXw&index=1&t=2480s) This video describes how Amazon Customer Engineers produced an AI model for lawyers to summarize and query large, complex legal contracts.  They did this 3 years ago before ChatGBT.
 - [Learn TensorFlow.js             ](https://youtu.be/EoYfa6mYOG4?si=PsmNOSaKHDoFhmve)
 
+   
